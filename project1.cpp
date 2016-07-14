@@ -1,6 +1,6 @@
 /*TA : Huq sider, The credit is given from him 
 The author: Hyo Kyung kang, Huq sider//
-//Do not copy//
+//Do not use  withoud 2 people permission mentioned upper.//
 
 
 #include <iostream>
